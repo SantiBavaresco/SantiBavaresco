@@ -35,7 +35,7 @@
 
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left" style="font-size:360"> 
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudiocode" width="40" height="40" style="padding-right:10px;"/>  
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudiocode" width="40" height="40" style="padding-right:30px;"/>  
   </a>  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="padding-right:10px;"/> 
   </a> 
