@@ -20,7 +20,10 @@
 
 <h5> </h5>
 
-
+- 🌱 I’m currently start learning TypeScript <img alt="TypeScript" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> and <img alt="Nextjs" width="18px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="padding-right:10px;" /
+ 😅
+- 👯 I’m looking to learn new technologies. 
+- ⚡ Fun fact: I love Airsoft, very good strategist and a lot of good camaraderie.
 - 📫 How to reach me **santiagobavaresco@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -30,7 +33,7 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/santiagobavares1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/santiagobavares1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Frameworks:</h3>
 <p align="left" style="font-size:360"> 
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudiocode" width="40" height="40"/>  
   </a>  
