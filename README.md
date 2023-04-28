@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Santiago Bavaresco</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<h3> I am a husband, father of a little boy, very good friend, and a passionate developer who is always looking for new challenges and opportunities to grow.
+<h5> I am a husband, father of a little boy, very good friend, and a passionate developer who is always looking for new challenges and opportunities to grow.
 I am very interested in technology, very patient, meticulous and manage to seek efficiency in the emerging problems that are presented to us in the world of programming. I'm excited to share that I have completed Henry's course in Full Stack Web Development. . </h3>
 
-<h3>As a FullStack Developer, I specialize in Back End development and have a strong passion for solving complex challenges and implementing logical solutions. However, I am also highly skilled in Front End development, where I enjoy improving the user experience (UX) by creating visually appealing and intuitive interfaces.
+<h5>As a FullStack Developer, I specialize in Back End development and have a strong passion for solving complex challenges and implementing logical solutions. However, I am also highly skilled in Front End development, where I enjoy improving the user experience (UX) by creating visually appealing and intuitive interfaces.
  </h3>
  
 <h3>Moreover, I have a growing interest in mobile app development and have gained expertise in React Native to create cross-platform applications. With my skills and experience in both Back End and Front End development, I am confident in my ability to create high-quality, seamless applications that meet the needs of end-users.  </h3>
