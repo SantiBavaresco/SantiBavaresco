@@ -14,7 +14,7 @@
 
 <h4>My proactive, curious, and resourceful nature makes me an asset to any team. I thrive in collaborative environments and believe in agile methodologies such as SCRUM, which I implemented during the Final Project of the Henry's bootcamp. This project was a significant challenge that required teamwork, effective communication, and interdependence between team members. Despite initial unfamiliarity with the technologies involved, we overcame the obstacles with flying colors. </h4>
 
-<h4> From Henry to the world, I am excited to take on new challenges and opportunities. If you're interested in working with me or learning more about my experience, feel free to reach out to me at <a alt="santiagobavaresco@gmail.com/">santiagobavaresco@gmail.com</a> or via 
+<h4> From Henry to the world, I am excited to take on new challenges and opportunities. If you're interested in working with me or learning more about my experience, feel free to reach out to me at <a href="santiagobavaresco@gmail.com/">santiagobavaresco@gmail.com</a> or via 
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-bavaresco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-bavaresco/" height="15" width="20" /> LinkedIn </a>. 
  I look forward to hearing from you.</h4>
 
