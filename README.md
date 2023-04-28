@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 <h3> I am a husband, father of a little boy, very good friend, and a passionate developer who is always looking for new challenges and opportunities to grow.
-I am very interested in technology, very patient, meticulous and manage to seek efficiency in the emerging problems that are presented to us in the world of programming. Currently I am taking Henry's course to be able to update myself in Full Stack Web Development. </h3>
+I am very interested in technology, very patient, meticulous and manage to seek efficiency in the emerging problems that are presented to us in the world of programming. I'm excited to share that I have completed Henry's course in Full Stack Web Development. . </h3>
 
 <h3>As a FullStack Developer, I specialize in Back End development and have a strong passion for solving complex challenges and implementing logical solutions. However, I am also highly skilled in Front End development, where I enjoy improving the user experience (UX) by creating visually appealing and intuitive interfaces.
  </h3>
@@ -16,6 +16,18 @@ I am very interested in technology, very patient, meticulous and manage to seek 
 <h3> From Henry to the world, I am excited to take on new challenges and opportunities. If you're interested in working with me or learning more about my experience, feel free to reach out to me at santiagobavaresco@gmail.com or via LinkedIn. I look forward to hearing from you.</h3>
 
 <h3> </h3>
+
+<h2>My Background </h2>
+
+<h3> I began my career path in high school where I studied as a technician and programmer. This early exposure to programming and electronics laid a strong foundation for my future career in technology. After completing my studies, I started working in the industry of electronic security systems and hardware. This role allowed me to develop my technical skills and gave me a practical understanding of how technology can be applied in real-world scenarios.</h3>
+
+<h3> As I gained more experience in the tech industry, I became increasingly interested in the analytical side of systems. I made the transition to working in IT analysis, where I had the opportunity to work with large data sets and identify patterns and trends that helped businesses make informed decisions. This experience further expanded my skill set and gave me a deeper understanding of how technology can drive business growth and success.</h3>
+
+<h3> Despite my success in IT analysis, I found myself wanting to take my skills to the next level and become a developer. I was drawn to the challenge of creating innovative solutions and bringing ideas to life through code. I decided to take the leap and began pursuing development full-time.</h3>
+
+<h3> I am now excited to continue growing and learning as a developer. I am passionate about creating clean, efficient, and effective code that solves complex problems and drives business success. I believe that technology has the power to transform the world and I am thrilled to be a part of this exciting industry.</h3>
+
+<h3> Thank you for taking the time to read about my journey. I look forward to connecting with fellow developers and collaborating on innovative projects. </h3>
 
 
 - 📫 How to reach me **santiagobavaresco@gmail.com**
