@@ -3,7 +3,7 @@
 
 <h4> I am a husband, father of a little boy, very good friend, and a passionate developer who is always looking for new challenges and opportunities to grow.</h4>
 
-<h4>I am very interested in technology, very patient, meticulous and manage to seek efficiency in the emerging problems that are presented to us in the world of programming. I'm excited to share that I have completed Henry's course in Full Stack Web Development. . </h4>
+<h4>I am very interested in technology, very patient, meticulous and manage to seek efficiency in the emerging problems that are presented to us in the world of programming. I'm excited to share that I have completed Henry's course in Full Stack Web Development. </h4>
 
 <h4>As a FullStack Developer, I specialize in Back End development and have a strong passion for solving complex challenges and implementing logical solutions. However, I am also highly skilled in Front End development, where I enjoy improving the user experience (UX) by creating visually appealing and intuitive interfaces.
  </h4>
