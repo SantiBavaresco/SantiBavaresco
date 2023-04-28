@@ -20,7 +20,7 @@
 
 <h5> </h5>
 
-- 🌱 I’m currently start learning TypeScript <img alt="TypeScript" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> and NextJs<img alt="Nextjs" width="18px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="padding-right:10px;" />
+- 🌱 I’m currently start learning TypeScript <img alt="TypeScript" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> and NextJs <img alt="Nextjs" width="24px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="padding-right:10px;" />
  😅
 - 👯 I’m looking to learn new technologies. 
 - ⚡ Fun fact: I love Airsoft, very good strategist and a lot of good camaraderie.
