@@ -108,5 +108,5 @@
 
 <h5> Thank you for taking the time to read about my journey. I look forward to connecting with fellow developers and collaborating on innovative projects. </h5>
 
-<img src="https://media.tenor.com/ZL7cozaJo1QAAAAd/stalker.gif" alt="reactnative" width="50%" height="50%" style="padding-right:10px"; align="center"/> 
+<p><img align="center" src="https://media.tenor.com/ZL7cozaJo1QAAAAd/stalker.gif" alt="stalkercampfire" width="50%" height="50%" style="padding-right:10px";  /> </p>
 
