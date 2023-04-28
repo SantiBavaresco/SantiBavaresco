@@ -20,18 +20,6 @@
 
 <h5> </h5>
 
-<h2>My Background </h2>
-
-<h5> I began my career path in high school where I studied as a technician and programmer. This early exposure to programming and electronics laid a strong foundation for my future career in technology. After completing my studies, I started working in the industry of electronic security systems and hardware. This role allowed me to develop my technical skills and gave me a practical understanding of how technology can be applied in real-world scenarios.</h5>
-
-<h5> As I gained more experience in the tech industry, I became increasingly interested in the analytical side of systems. I made the transition to working in IT analysis, where I had the opportunity to work with large data sets and identify patterns and trends that helped businesses make informed decisions. This experience further expanded my skill set and gave me a deeper understanding of how technology can drive business growth and success.</h5>
-
-<h5> Despite my success in IT analysis, I found myself wanting to take my skills to the next level and become a developer. I was drawn to the challenge of creating innovative solutions and bringing ideas to life through code. I decided to take the leap and began pursuing development full-time.</h5>
-
-<h5> I am now excited to continue growing and learning as a developer. I am passionate about creating clean, efficient, and effective code that solves complex problems and drives business success. I believe that technology has the power to transform the world and I am thrilled to be a part of this exciting industry.</h5>
-
-<h5> Thank you for taking the time to read about my journey. I look forward to connecting with fellow developers and collaborating on innovative projects. </h5>
-
 
 - 📫 How to reach me **santiagobavaresco@gmail.com**
 
@@ -67,6 +55,7 @@
   </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a> 
+ |
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -103,14 +92,17 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santibavaresco&" alt="santibavaresco" /></p>
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>My Background </h2>
+
+<h5> I began my career path in high school where I studied as a technician and programmer. This early exposure to programming and electronics laid a strong foundation for my future career in technology. After completing my studies, I started working in the industry of electronic security systems and hardware. This role allowed me to develop my technical skills and gave me a practical understanding of how technology can be applied in real-world scenarios.</h5>
+
+<h5> As I gained more experience in the tech industry, I became increasingly interested in the analytical side of systems. I made the transition to working in IT analysis, where I had the opportunity to work with large data sets and identify patterns and trends that helped businesses make informed decisions. This experience further expanded my skill set and gave me a deeper understanding of how technology can drive business growth and success.</h5>
+
+<h5> Despite my success in IT analysis, I found myself wanting to take my skills to the next level and become a developer. I was drawn to the challenge of creating innovative solutions and bringing ideas to life through code. I decided to take the leap and began pursuing development full-time.</h5>
+
+<h5> I am now excited to continue growing and learning as a developer. I am passionate about creating clean, efficient, and effective code that solves complex problems and drives business success. I believe that technology has the power to transform the world and I am thrilled to be a part of this exciting industry.</h5>
+
+<h5> Thank you for taking the time to read about my journey. I look forward to connecting with fellow developers and collaborating on innovative projects. </h5>
+
+
